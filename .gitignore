@@ -75,3 +75,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Harvest_Wars/Intermediate
+/Harvest_Wars/Build
+/Harvest_Wars/Saved
