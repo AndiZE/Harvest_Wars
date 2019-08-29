@@ -3,16 +3,6 @@
 	"EngineAssociation": "4.22",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "Harvest_Wars",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "Paper2D",
